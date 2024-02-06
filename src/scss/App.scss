@@ -2,4 +2,19 @@
 body{
     background-color: $black;
 }
+.App{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    .header{
+        .header-top{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            .logo{
+                width:30%;
+            }
+        }
+    }
+}
 
