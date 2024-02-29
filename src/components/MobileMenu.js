@@ -1,4 +1,5 @@
 import React from "react";
+//import { Link } from 'react-router-dom';
 import "../scss/MobileMenu.scss";
 import staricon from "../assets/icons/star_2000x2000px.svg";
 import elipse from "../assets/icons/elipses_white_2000x2000px.svg";
